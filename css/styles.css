@@ -425,6 +425,10 @@ address {
   align-items: baseline
 }
 
+.footer-logo-text {
+  margin-right: 120px;
+}
+
 .footer-page .logo {
   display: inline-block;
   margin-bottom: 16px;
@@ -439,7 +443,6 @@ span.logo-studio {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  margin-right: 120px;
 }
 
 .footer-soc-text {
