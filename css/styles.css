@@ -320,14 +320,11 @@ address {
 }
 
 .link-icon:hover,
-.link-iconfocus {
+.link-icon:focus {
   background-color: #404bbf;
 }
 
-.team-icon-instagram,
-.team-icon-twitter,
-.team-icon-facebook,
-.team-icon-linkedin {
+.team-soc-icon {
   fill: #F4F4FD;
 }
 
@@ -442,7 +439,7 @@ span.logo-studio {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  margin-right: 120px
+  margin-right: 120px;
 }
 
 .footer-soc-text {
@@ -479,9 +476,6 @@ span.logo-studio {
   background-color: #31D0AA;
 }
 
-.footer-icon-instagram,
-.footer-icon-twitter,
-.footer-icon-facebook,
-.footer-icon-linkedin {
+.footer-icon {
   fill: #F4F4FD;
 }
